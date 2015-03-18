@@ -1,4 +1,4 @@
-Chapter 12. 使用 Gradle 的图形界面
+# Chapter 12. 使用 Gradle 的图形界面
 `gradle --gui`命令可以召唤Gradle的图形界面。注意这是一个阻塞命令，直到gui窗口关闭。*nix系统可以使用`gradle --gui &`来让命令在后台运行，这样控制台就会立刻返回。win下可以使用`start`命令。
 
 界面上方会有4个tab，下方会有一个输出窗。

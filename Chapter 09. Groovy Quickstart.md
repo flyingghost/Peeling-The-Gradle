@@ -1,4 +1,4 @@
-#Chapter 9. Groovy工程快速入门
+#Chapter 9. Groovy构建快速入门
 
 要构建Groovy工程，可以使用Groovy插件。这插件在java插件上扩展而来，基本和java插件一致，额外添加了groovy支持。
 

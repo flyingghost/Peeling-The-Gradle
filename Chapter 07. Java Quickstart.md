@@ -1,4 +1,4 @@
-Chapter 7. Java快速入门
+Chapter 7. Java构建快速入门
 ===
 7.1. Java插件
 ---
